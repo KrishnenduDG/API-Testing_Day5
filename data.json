@@ -1,0 +1,7 @@
+[
+  { "name": "Python", "author": "abcd", "price": 100 },
+  { "name": "Alice In Wonderland", "author": "Lewis Caroll", "price": 200 },
+  { "name": "Gulliver's Travels", "author": "Jonathan Swift", "price": 300 },
+  { "name": "C++", "author": "bcde", "price": 400 },
+  { "name": "Java", "author": "abcd", "price": 500 }
+]
