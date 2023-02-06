@@ -15,7 +15,7 @@ msg : "Already Exists"
 
 // Passing a Valid Body to the Request
 pm.test("Successful Post Request for Adding a Book",() => {
-pm.response.to.have.status(200);
+pm.response.to.have.status(201);
 pm.response.json() === validPostResponse
 })
 

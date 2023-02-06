@@ -50,7 +50,7 @@ app.post("/", (req, res) => {
         msg: "Book Successfully Added",
       };
 
-      res.status(200);
+      res.status(201);
     }
   }
 
